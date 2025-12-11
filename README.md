@@ -14,6 +14,6 @@ Pandas
 
 Requests
 
-BeautifulSoup (only if needed)
+BeautifulSoup 
 
 Jupyter Notebook
